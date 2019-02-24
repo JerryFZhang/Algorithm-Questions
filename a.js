@@ -1,6 +1,4 @@
-var states = [
-    1, 1, 1, 0, 1, 1, 1, 1
-]
+var states = [1, 1, 1, 0, 1, 1, 1, 1]
 var days = 2
 while (days) {
     //    console.log(days + " day remaining")
